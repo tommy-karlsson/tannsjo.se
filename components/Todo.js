@@ -59,9 +59,10 @@ export default {
 	Valdemar, hvilka äfven uppehöllo sig i närheten.</p>
 
 <!-- TODO
-	<div id="map-container-risboke" class="z-depth-1-half map-container col-lg-6" style="height: 500px">
+	<div id="map-container-fagerdala" class="z-depth-1-half map-container col-lg-6" style="height: 500px">
 	</div>
 -->
+
 	<h4>Bad</h4>
 	<h5>Hinneryd</h5>
 	<p>Badplatsen i Hinnerydssjön är liten men trevlig. Här finns en liten sandstrand med en brygga, och en flytbrygga

@@ -74,6 +74,21 @@ export default {
 		<div class="carousel-item active">
 		  <img src="images/stures_kammare.jpeg" class="d-block w-100">
 		</div>
+		<div class="carousel-item">
+			<img src="images/big_bedroom1.jpeg" class="d-block w-100">
+		</div>
+		<div class="carousel-item">
+			<img src="images/big_bedroom2.jpeg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+        	<img src="images/big_bedroom3.jpeg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+        	<img src="images/small_bedroom1.jpeg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+        	<img src="images/small_bedroom2.jpeg" class="d-block w-100">
+        </div>
 	  </div>
 	  <button class="carousel-control-prev" type="button" data-bs-target="#bedroomCarousel" data-bs-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
