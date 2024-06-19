@@ -89,7 +89,9 @@ export default {
 
 	<h2>Markaryds kommun</h2>
 
-	<p><a href="https://www.markaryd.com/se-gora/">https://www.markaryd.com/se-gora/</a></p>
+	<p><a href="https://www.markaryd.se/sidor/uppleva-och-gora.html">Uppleva och göra</a></p>
+	<p><a href="https://storymaps.arcgis.com/stories/5f488af359924ed393cf8e591dc3be78">Upplevelsekarta</a></p>
+	<p><a href="https://markaryd.com/utflykt/">https://markaryd.com/utflykt/</a></p>
 
 </div>
   `
