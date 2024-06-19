@@ -14,7 +14,7 @@ export default {
 	7 sängplatser.
 	</p>
 	<p>
-	Pris: 7 000 kr/vecka.
+	Hyset hyrs ut genom <a href="https://www.staynordic.se/en/rentals/house-stromsnasbruk-nice-cottage-in-tannsjo-stromsnasbruk-se06041-442740.html">StayNordic</a>.
 	</p>
 </div>
   `
