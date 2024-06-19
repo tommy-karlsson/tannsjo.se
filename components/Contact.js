@@ -15,8 +15,6 @@ export default {
 	<dl>
       <dt>Telefon</dt>
       <dd>(+46) (0)70 - 82 54 101</dd>
-      <dt>E-post</dt>
-      <dd><a href="mailto:info@tannsjo.se">info@tannsjo.se</a></dd>
     </dl>
 </div>
   `
